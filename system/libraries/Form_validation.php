@@ -235,7 +235,7 @@ class CI_Form_validation {
 			}
 		}
 
-		// Build our master array
+		
 		$this->_field_data[$field] = array(
 			'field'		=> $field,
 			'label'		=> $label,
